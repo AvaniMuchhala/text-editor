@@ -6,9 +6,12 @@ J.A.T.E. is Just Another Text Editor that runs in the browser and can also funct
 
 ## Usage
 
-Click on the URL to use the app:
+Click on the URL to use the app: https://warm-lake-93524.herokuapp.com/
 
 On the website, add content to the text editor. After entering content, click somewhere else not in the text editor to ensure the content gets automatically saved. You can also either click on the "Install Me!" button or the install icon in the search bar to download the web app to your desktop.
+
+Below is an animation demonstrating the app's functionality:
+![text editor demo gif](./assets/text-editor-demo.gif)
 
 ## License
 
